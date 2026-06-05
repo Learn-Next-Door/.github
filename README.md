@@ -45,5 +45,5 @@ We are not open to external contributions at this time. If you have found a secu
 
 ## Contact
 
-- Website: [learnnextdoor.com](https://www.learnnextdoor.com)
+- Website: [learnnextdoor.com](https://learnnextdoorfinal-web.vercel.app/)
 - Support: support@learnnextdoor.com
